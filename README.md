@@ -31,8 +31,14 @@ The goal of this project is to demonstrate an understanding of quantum mechanics
 ### 4. Quantum Random Number Generator (QRNG)
 * **Description:** Built a true random number generator exploiting the inherent probabilistic nature of quantum measurement (collapsing superposition).
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository.
 2. Install dependencies:
    ```bash
    pip install qiskit qiskit-aer matplotlib jupyter
+   ```
+
+## License
+
+This project is free to use for learning and research.
+You may modify and reuse the code with attribution.
