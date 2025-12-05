@@ -27,7 +27,7 @@ This project uses **only Qiskit Aer simulators** (no IBM Quantum hardware requir
 ```
 bell-states/
 │
-├── BellStates.ipynb           # Full Jupyter Notebook with circuits, visualizations, and purity checks
+├── Bell's State.ipynb           # Full Jupyter Notebook with circuits, visualizations, and purity checks
 ├── Readme.md                  # Explanation 
 
 ```
