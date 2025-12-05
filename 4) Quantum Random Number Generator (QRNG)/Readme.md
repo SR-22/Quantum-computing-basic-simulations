@@ -52,6 +52,6 @@ Open the notebooks using Jupyter Lab or VS Code.
 
 Run the cells to generate your own quantum random numbers!
 
-##License
+## License
 
 This project is open source. Feel free to use the code for educational purposes or as a starting point for more complex quantum algorithms.
