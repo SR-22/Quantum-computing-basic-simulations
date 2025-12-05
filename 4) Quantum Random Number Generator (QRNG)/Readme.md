@@ -40,14 +40,10 @@ This project includes two Jupyter Notebooks, each demonstrating a different stra
 | **Hardware** | Requires larger quantum volume | Minimal hardware requirement |
 | **Best For** | Clean function integration | Education, visualization, & streaming |
 
-## Getting Started
-
 ### Prerequisites
 To run these notebooks, you will need Python installed along with the Qiskit SDK.
 
-```bash
-pip install qiskit qiskit-aer matplotlib
-
+``pip install qiskit qiskit-aer matplotlib``
 
 ## Usage
 Clone this repository.
