@@ -143,5 +143,6 @@ It is ideal for:
 ---
 
 ## Contributing
+
 Feel free to fork this repository and submit pull requests if you want to experiment with higher qubit counts or run this on real backend hardware via IBM Quantum.
 ---
